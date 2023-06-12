@@ -19,6 +19,7 @@ public class AppConstants {
 	public static final String TEMP_PWD = "{TEMP-PWD}";
 	
 	public static final String REG_MAIL_SUBJECT = "regMailSubject";
+	public static final String REG_MAIL_SUBJECT1 = "regMailSubject1";
 	
 	public static final String REG_MAIL_BODY_TEMPLATE_FILE = "regMailBodyTemplateFile";
 
